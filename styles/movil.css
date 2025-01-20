@@ -21,8 +21,8 @@
     display: block;
    }
    .information{
-    position: absolute; /* Posiciona el contenedor fuera del flujo normal del documento */
-    top: 37%; /* Ajusta según sea necesario */
+    position: absolute; 
+    top: 37%; 
     left: 0;
     margin-top: 50px;
     width: 100%;
